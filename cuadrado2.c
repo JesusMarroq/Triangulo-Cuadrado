@@ -1,8 +1,7 @@
 /*
  Fecha: 11/Sep/18 
  Autor: JIML
- Proposito: Programa que genera un cudrado con ciclos while
- contando en forma decreciente(al reves, 5, 4, 3, 2, 1)
+ Proposito: Programa que genera un cudrado con ciclos while contando en forma decreciente(al reves, 5, 4, 3, 2, 1)
 */
 
 #include <stdio.h>
